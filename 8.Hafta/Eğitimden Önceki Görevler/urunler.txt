@@ -1,8 +1,6 @@
-Elma 34
-Armut 25
-Domates 35
-Elma 34
-Havuç 34
-Armut 25
-Domates 35
-Havuç 34
+Ürün Adı: Armut, fiyat: 25
+Ürün Adı: Domates, fiyat: 35
+Ürün Adı: Elma, fiyat: 34
+Ürün Adı: Armut, fiyat: 25
+Ürün Adı: Domates, fiyat: 35
+Ürün Adı: Havuç, fiyat: 34
