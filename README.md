@@ -333,7 +333,7 @@ python hafta_01.py
 
 ## Bağlantılar
 
-- [Yetgen Resmi Sitesi](https://www.yetgen.com)
+- [Yetgen Resmi Sitesi](https://www.yetkingencler.com/)
 - [Python Resmi Dokümantasyon](https://docs.python.org/tr/3/)
 
 ---
